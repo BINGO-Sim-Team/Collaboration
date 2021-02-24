@@ -8,7 +8,7 @@ The repository hosts all info regarding collaboration on Extragalactic Discrete 
 
 ### Workflow
 * All working repositories are private with access to all [team members](https://github.com/orgs/BINGO-Sim-Team/teams/builder);
-* Please use the *discussion* feature within the [team page](https://github.com/orgs/BINGO-Sim-Team/teams/builder) to engage serious discussions;
+* Please use the *discussion* feature within the [team page](https://github.com/orgs/BINGO-Sim-Team/teams/builder/discussions/) to engage serious discussions;
 * Please use the *Pull Request* feature to update repos and avoid direct commits;
 * Project docs and tasks can be found at [BINGO-Sim-Base](https://github.com/BINGO-Sim-Team/BINGO-Sim-Base);
 * Working tasks are listed via the *issue* feature for work assignments, discussions, and progress tracking with respect to the specific tasks. One can check the current tasks [here](https://github.com/BINGO-Sim-Team/BINGO-Sim-Base/issues);
@@ -19,3 +19,7 @@ The repository hosts all info regarding collaboration on Extragalactic Discrete 
         * Admin: [Chenxi](https://github.com/ChenxiSSS)
     * [Halo-Galaxy-Connection](https://github.com/BINGO-Sim-Team/Halo-Galaxy-Connection)
         * Admin: [Yongkai](https://github.com/sjtuzyk)
+
+### Discussion
+* Major discussions are stored here:
+    * [Discussion on Galaxy Ingredient | ModelingElements](https://github.com/orgs/BINGO-Sim-Team/teams/builder/discussions/1)
